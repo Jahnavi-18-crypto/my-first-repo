@@ -1,0 +1,4 @@
+Name: Jahnavi
+Course: BCA
+One thing i learned about Github: Github is an online platform that helps teams to store and manage Git projects,
+allowing them to track changes and also work together on same project by links. 
